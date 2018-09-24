@@ -1,7 +1,7 @@
 # InformaticaPowerCenter-Backup-WF
 
 ## --- D E S C R I P C I O N -----
-Script que se encarga de respaldar todos los workflows contenidos en un archivo de texto plano.  
+Script BASH que se encarga de respaldar todos los workflows contenidos en un archivo de texto plano.  
 En donde el archivo de texto plano está constituido por un workflow por linea.  
 La variable utilizada para espaldar es $ObjectType  
 El directorio de búsqueda a respaldar es la carpeta: $PwcBackupDirectory dentro del servidor PWC IPC.  
