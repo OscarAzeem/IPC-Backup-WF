@@ -1,4 +1,4 @@
-# IPC-Backup-WF
+# InformaticaPowerCenter-Backup-WF
 
 ## --- D E S C R I P C I O N -----
 Script que se encarga de respaldar todos los workflows contenidos en un archivo de texto plano.  
