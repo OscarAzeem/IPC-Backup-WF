@@ -9,5 +9,5 @@ El script crea un fichero TEMPLOG.log en la ruta ${HOME}/${$(date +%d_%m_%y-%H_%
 En la ruta ${HOME}/${$(date +%d_%m_%y-%H_%M_%S)}_Backup_Workflow se almacenan los workflow respaldados 
 
 # --- - - - - U S O -------------
-# ejemplo:
-# respaldo_ficheros_XML.sh "IPC_REPO" "UsuarioIPC" "PassIPC" "Dominio_IPC" "FOLDER_IPC_A_BUSCAR" "ARCHIVO_CON_WFs_A_RESPALDAR.txt"
+ejemplo:  
+$./respaldo_ficheros_XML.sh "IPC_REPO" "UsuarioIPC" "PassIPC" "Dominio_IPC" "FOLDER_IPC_A_BUSCAR" "ARCHIVO_CON_WFs_A_RESPALDAR.txt"  
